@@ -43,7 +43,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/WeatherETL.git
+   git clone https://github.com/ap-apely/WeatherETL.git
    cd WeatherETL
    ```
 
